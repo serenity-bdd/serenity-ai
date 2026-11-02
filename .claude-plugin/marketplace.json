@@ -1,0 +1,20 @@
+{
+  "name": "serenity",
+  "description": "Agent skills and subagents for Serenity BDD test automation",
+  "owner": {
+    "name": "Serenity BDD"
+  },
+  "plugins": [
+    {
+      "name": "serenity-bdd",
+      "source": "./plugins/serenity-bdd",
+      "description": "Skill and test-reviewer agent for writing Serenity BDD tests with an AI assistant (Serenity 5.4.2).",
+      "category": "testing",
+      "tags": [
+        "serenity-bdd",
+        "testing",
+        "bdd"
+      ]
+    }
+  ]
+}

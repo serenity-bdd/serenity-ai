@@ -1,0 +1,21 @@
+{
+  "name": "serenity-bdd",
+  "version": "5.4.2",
+  "description": "Write, fix and review Serenity BDD tests in Java: Page Objects, Screenplay and Cucumber, with Selenium, Playwright or REST. Describes Serenity 5.4.2.",
+  "author": {
+    "name": "Serenity BDD"
+  },
+  "homepage": "https://serenity-bdd.github.io/docs/ai/ai_using_assistants",
+  "repository": "https://github.com/serenity-bdd/serenity-ai",
+  "license": "Apache-2.0",
+  "keywords": [
+    "serenity-bdd",
+    "testing",
+    "bdd",
+    "screenplay",
+    "selenium",
+    "playwright",
+    "cucumber",
+    "java"
+  ]
+}
